@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{qFMz:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a);n.default=function(){return r.a.createElement("footer",null,r.a.createElement("p",null,"Created by Mathew wrigley, © 2019"))}}}]);
+//# sourceMappingURL=component---src-pages-components-footer-js-1fd33908b5fd66755a83.js.map
