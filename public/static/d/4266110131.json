@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"The Great Gatsby Bootcamp","date":"06-24-2020"},"fields":{"slug":"gatsby"}}},{"node":{"frontmatter":{"title":"My first post","date":"06-25-2020"},"fields":{"slug":"react"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"My first post","date":"06-25-2020"},"fields":{"slug":"react"}}},{"node":{"frontmatter":{"title":"The Great Gatsby Bootcamp","date":"06-24-2020"},"fields":{"slug":"gatsby"}}}]}}}
