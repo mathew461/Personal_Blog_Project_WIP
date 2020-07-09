@@ -33,31 +33,11 @@ const Header = () => {
                             blog
                         </Link>
                     </li>
-                    <li> 
-                        <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem}  to="/photography"> 
-                             photography
+                    <li>
+                        <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem}  to="/portfolio"> 
+                            portfolio
                         </Link>
                     </li>
-                    <li> 
-                        <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem}  to="/sketches"> 
-                            sketches
-                        </Link>
-                    </li>
-                    <li> 
-                        <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem}  to="/games"> 
-                            games
-                        </Link>
-                    </li>
-
-
-
-
-
-
-
-
-
-
                     <li>
                         <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem}  to="/about"> 
                             about

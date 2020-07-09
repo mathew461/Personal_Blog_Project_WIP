@@ -6,10 +6,8 @@ exports.components = {
   "component---src-pages-about-js": () => import("./../src/pages/about.js" /* webpackChunkName: "component---src-pages-about-js" */),
   "component---src-pages-blog-js": () => import("./../src/pages/blog.js" /* webpackChunkName: "component---src-pages-blog-js" */),
   "component---src-pages-contact-js": () => import("./../src/pages/contact.js" /* webpackChunkName: "component---src-pages-contact-js" */),
-  "component---src-pages-games-js": () => import("./../src/pages/games.js" /* webpackChunkName: "component---src-pages-games-js" */),
   "component---src-pages-index-js": () => import("./../src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
-  "component---src-pages-photography-js": () => import("./../src/pages/photography.js" /* webpackChunkName: "component---src-pages-photography-js" */),
-  "component---src-pages-sketches-js": () => import("./../src/pages/sketches.js" /* webpackChunkName: "component---src-pages-sketches-js" */),
+  "component---src-pages-portfolio-js": () => import("./../src/pages/portfolio.js" /* webpackChunkName: "component---src-pages-portfolio-js" */),
   "component---src-templates-blog-js": () => import("./../src/templates/blog.js" /* webpackChunkName: "component---src-templates-blog-js" */)
 }
 
