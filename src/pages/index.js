@@ -21,7 +21,7 @@ const indexPage = ({ data }) => {
   
 return (
   <Layout >
-      <Head />
+      <Head title="Home"/>
       <Img
         className={indexStyles.display_pic}
         fixed={data.file.childImageSharp.fixed}
