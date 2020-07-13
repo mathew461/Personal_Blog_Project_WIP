@@ -4,6 +4,7 @@ import Layout from '../components/layout'
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import indexStyles from './index.module.scss'
+import Head from '../components/head'
 
 export const query = graphql`
   query {
@@ -20,6 +21,7 @@ const indexPage = ({ data }) => {
   
 return (
   <Layout >
+      <Head />
       <Img
         className={indexStyles.display_pic}
         fixed={data.file.childImageSharp.fixed}
