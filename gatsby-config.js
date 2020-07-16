@@ -1,7 +1,7 @@
 module.exports = {
 
   siteMetadata: {
-    title: 'Rebellious-Gnome Blog!',
+    title: 'The RB',
     author: 'Mathew Wrigley'
   },
   /* Your site config here */

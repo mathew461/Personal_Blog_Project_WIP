@@ -27,7 +27,7 @@ return (
         fixed={data.file.childImageSharp.fixed}
         alt="Display Picture">
       </Img>
-        <h2 className={indexStyles.lower_heading}>About Me (1989)</h2>
+        <h2 className={indexStyles.lower_heading}>The Rebellious Gnome)</h2>
         <p className={indexStyles.lower_p}>Some introductury bullshit goes here, some fluff that makes me sound good and appealing to some shit company.
        </p>
           

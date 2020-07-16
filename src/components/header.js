@@ -19,7 +19,7 @@ const Header = () => {
         <header className={headerStyles.header}>
             <h1> 
                 <Link className={headerStyles.title} to="/">
-                  {data.site.siteMetadata.title}
+                  {data.site.siteMetadata.title} This is a placeholder
                 </Link> 
             </h1> 
             <nav>
